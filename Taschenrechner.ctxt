@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=summand
+comment0.target=double\ addiere(double)
+comment1.params=subtrahend
+comment1.target=double\ subtrahiere(double)
+comment10.params=
+comment10.target=void\ punkteAusgeben()
+comment2.params=faktor
+comment2.target=double\ multipliziere(double)
+comment3.params=divident
+comment3.target=double\ dividiere(double)
+comment4.params=
+comment4.target=double\ speicherAnzeigen()
+comment5.params=
+comment5.target=void\ speicherLoeschen()
+comment6.params=
+comment6.target=void\ Kontostand()
+comment7.params=laufzeit\ zinsrate\ guthaben
+comment7.target=double\ Zinsenrechnen(double,\ double,\ double)
+comment8.params=
+comment8.target=double\ punkteGast()
+comment9.params=
+comment9.target=double\ punkteHeim()
+numComments=11
